@@ -27,7 +27,10 @@ Aplicar conhecimentos de orientação a objetos
 - [x] Parâmetros em páginas da Internet
 - [x] Fatiamento de String
 
-## :construction: Modulo 02
+## :white_check_mark: Modulo 02
+- [x] O método find()
+- [x] O método len()
+- [x] Url com múltiplos parâmetros
 
 ## :construction: Modulo 03
 
