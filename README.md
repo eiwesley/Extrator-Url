@@ -32,7 +32,10 @@ Aplicar conhecimentos de orientação a objetos
 - [x] O método len()
 - [x] Url com múltiplos parâmetros
 
-## :construction: Modulo 03
+## :white_check_mark: Modulo 03
+- [x] Validando a URL
+- [x] Criando nossa classe
+- [x] None vs empty, e o if do Python
 
 ## :construction: Modulo 04
 
