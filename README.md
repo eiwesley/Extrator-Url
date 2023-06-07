@@ -37,7 +37,11 @@ Aplicar conhecimentos de orientação a objetos
 - [x] Criando nossa classe
 - [x] None vs empty, e o if do Python
 
-## :construction: Modulo 04
+## :white_check_mark: Modulo 04
+
+- [x] O que são expressões regulares
+- [X] Quantificadores e Intervalos
+- [X] Validando nossa URL com RegEx
 
 ## :construction: Modulo 05
 
