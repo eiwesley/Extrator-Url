@@ -42,7 +42,7 @@ Aplicar conhecimentos de orientação a objetos
 - [X] Quantificadores e Intervalos
 - [X] Validando nossa URL com RegEx
 
-## :construction: Modulo 05
+## :white_check_mark: Modulo 05
 - [x] O método __len__()
 - [X] O método __str__()
 - [X] Igualdade e Identidade 
