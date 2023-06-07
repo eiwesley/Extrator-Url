@@ -8,7 +8,7 @@
 Aprender a manipular strings em Python para extrair informações de um texto
 Entender a classe String e seus métodos mais a fundo
 Saber como utilizar Expressões Regulares no Python para encontrar padrões
-Conheçer os métodos especiais do Python e como utilizá-los para adicionar comportamento à sua classe
+Conhecer os métodos especiais do Python e como utilizá-los para adicionar comportamento à sua classe
 Aplicar conhecimentos de orientação a objetos
 
 ### Modulos
