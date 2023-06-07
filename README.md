@@ -38,10 +38,14 @@ Aplicar conhecimentos de orientação a objetos
 - [x] None vs empty, e o if do Python
 
 ## :white_check_mark: Modulo 04
-
 - [x] O que são expressões regulares
 - [X] Quantificadores e Intervalos
 - [X] Validando nossa URL com RegEx
 
 ## :construction: Modulo 05
+- [x] O método __len__()
+- [X] O método __str__()
+- [X] Igualdade e Identidade 
 
+## ✔️ Tecnologias utilizadas
+- [RegEx](https://docs.python.org/pt-br/3/howto/regex.html#regex-howto)
